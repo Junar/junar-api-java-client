@@ -1,12 +1,12 @@
-Junar API Java Client
+# Junar API Java Client #
 Unofficial API Java Client implementation for the Junar.com API, a service to collect, organize, use and share data.
 
-Usage
+## Usage ##
 
 DataStream ds = new DataStream("CHILE-INDIC-UF");
 System.out.println("DS INFO : " + ds.info());
 
-License
+## License ##
 
 (Released under MIT License since v0.0.1)
 
