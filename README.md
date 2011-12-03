@@ -4,6 +4,7 @@ Unofficial API Java Client implementation for the Junar.com API, a service to co
 ## Usage ##
 
 DataStream ds = new DataStream("CHILE-INDIC-UF");
+
 System.out.println("DS INFO : " + ds.info());
 
 ## License ##
